@@ -1,0 +1,1 @@
+console.log(hamza)01_basics
